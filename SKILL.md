@@ -3,7 +3,7 @@ name: coalition-building-playbook
 description: Develop strategy for building political coalitions to advance urban transformation projects over multi-year timelines.
 license: MIT
 metadata:
-  version: 1.0.3616
+  version: 1.0.3617
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
